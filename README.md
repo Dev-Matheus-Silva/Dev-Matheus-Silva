@@ -11,17 +11,10 @@ Hello World 👋, I'm <b>Matheus Silva</b>
 
 ##
 
-<div style="display: inline" align="center" >
-    <a href="https://github.com/Dev-Matheus-Silva">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devcarolinealmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Matheus-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Matheus-Silva&show_icons=true&theme=dark)
 
-<div align="center" width ="160em" height="160em">
 
-[![ GitHub Streak ](https://github-readme-streak-stats.herokuapp.com?user=Dev-Matheus-Silva&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak -Estatísticas)
 
-</div>
 
 
 ## Tech Stack
