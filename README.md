@@ -2,7 +2,8 @@
 Olá Mundo 👋, eu sou <b>Matheus Silva</b>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=&vCenter=&repeat=verdadeiro&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+
 ## Reach me out here
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-silva-dev)
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
