@@ -1,10 +1,8 @@
 <h1>
-Hello World 👋, I'm <b>Matheus Silva</b>
+Olá Mundo 👋, eu sou <b>Matheus Silva</b>
 </h1>
 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 ## Reach me out here
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-silva-dev)
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
@@ -33,7 +31,7 @@ Hello World 👋, I'm <b>Matheus Silva</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
 </div>
 
-##### Frameworks and Libraries
+##### Frameworks e bibliotecas
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
