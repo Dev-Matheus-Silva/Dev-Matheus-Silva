@@ -17,9 +17,9 @@ Hello World 👋, I'm <b>Matheus Silva</b>
 
 
 
-## Tech Stack
+## Pilha Tecnologias
 
-##### Languages
+##### Linguagens
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
@@ -44,7 +44,7 @@ Hello World 👋, I'm <b>Matheus Silva</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50px" />
 </div>
 
-##### Tools
+##### Ferramentas
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />
