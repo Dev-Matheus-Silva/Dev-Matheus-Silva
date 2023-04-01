@@ -5,6 +5,25 @@ Hello World 👋, I'm <b>Matheus Silva</b>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+build+things+for+web)](https://git.io/typing-svg)
 
+## Reach me out here
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-silva-dev)
+[![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
+##
+
+<div style="display: inline" align="center" >
+    <a href="https://github.com/Dev-Matheus-Silva">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devcarolinealmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Matheus-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center" width ="160em" height="160em">
+
+[![ GitHub Streak ](https://github-readme-streak-stats.herokuapp.com?user=Dev-Matheus-Silva&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak -Estatísticas)
+
+</div>
+
+
 ## Tech Stack
 
 ##### Languages
@@ -41,20 +60,3 @@ Hello World 👋, I'm <b>Matheus Silva</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" / />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" / />
 </div>
-
-## Reach me out here
-
-<a href="https://www.linkedin.com/in/matheusalvessilva-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%250077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</br>
-
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariSabavath&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/Dev-Matheus-Silva/github-readme-stats)
-
-<a href="https://github.com/Dev-Matheus-Silva/github-readme-stats">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=MurariSabavath&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/Dev-Matheus-Silva/convoychat">
-  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MurariSabavath&theme=tokyonight" />
-</a>
